@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kézily</h1>
-<h3 align="center">PHP & Front-end Developer.</h3>
+<h1>Hi 👋, I'm Kézily</h1>
+<h3>PHP & Front-end Developer from Brazil.</h3>
 
 - 👯 I’m looking to collaborate on [WordPress](https://github.com/WordPress/wordpress-develop/)
 - 👨‍💻 All of my projects are available at [Inovalize](https://inovalize.com.br)
