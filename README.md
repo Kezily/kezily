@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Kézily</h1>
+<h1 align="center">Hi 👋, I'm Kézily</h1>
 <h3 align="center">PHP & Front-end Developer.</h3>
 
 - 👯 I’m looking to collaborate on [WordPress](https://github.com/WordPress/wordpress-develop/)
